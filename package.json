@@ -1,7 +1,6 @@
 {
-  "name": "gilded-rose-kata",
+  "name": "mona-lisa-refactor",
   "version": "1.0.0",
-  "description": "Gilded Rose kata in JavaScript with Jest",
   "scripts": {
     "test": "jest",
     "test:watch": "jest --watch",
